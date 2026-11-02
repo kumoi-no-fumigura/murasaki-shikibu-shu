@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 126,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-murasaki-0001",
@@ -1808,7 +1811,7 @@
   "blocks": 126,
   "chars": 2917,
   "poems": 126,
-  "yaku": 0,
+  "yaku": 126,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T11:41:39+09:00"
